@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "Vingadores",
+        "preco_album": 15,
+        "preco_pacote": 5,
+        "personagens": [
+            {
+                "nome": "Homem de ferro"
+            },
+            {
+                "nome": "Xenoman"
+            },
+            {
+                "nome": "Capit\u00e3o Am\u00e9rica do Sul"
+            },
+            {
+                "nome": "Scooby Doo"
+            },
+            {
+                "nome": "Lippy"
+            },
+            {
+                "nome": "Hardy"
+            }
+        ],
+        "figurinhas": [
+            {
+                "numero": 1,
+                "personagem": {
+                    "nome": "Homem de ferro"
+                }
+            },
+            {
+                "numero": 2,
+                "personagem": {
+                    "nome": "Xenoman"
+                }
+            },
+            {
+                "numero": 3,
+                "personagem": {
+                    "nome": "Capit\u00e3o Am\u00e9rica do Sul"
+                }
+            },
+            {
+                "numero": 4,
+                "personagem": {
+                    "nome": "Scooby Doo"
+                }
+            },
+            {
+                "numero": 5,
+                "personagem": {
+                    "nome": "Lippy"
+                }
+            },
+            {
+                "numero": 6,
+                "personagem": {
+                    "nome": "Hardy"
+                }
+            }
+        ]
+    },
+    {
+        "titulo": "Hulk",
+        "preco_album": 10,
+        "preco_pacote": 4,
+        "personagens": [],
+        "figurinhas": []
+    }
+]
